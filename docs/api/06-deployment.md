@@ -1,3 +1,7 @@
+---
+title: Deployments
+---
+
 ### VS Code deployments
 
 The [publisher is Svelte](https://marketplace.visualstudio.com/manage/publishers/svelte)
